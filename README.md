@@ -15,7 +15,7 @@
 
 - :office: &nbsp;I'm currently studying at **[UA]**
 - :seedling: &nbsp;I’m currently working on my **[Masters]**
-- :speech_balloon: &nbsp;I like to talk about **malware** and other **security topics**
+- :speech_balloon: &nbsp;I like to talk about **[malware]** and other **[security topics]**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -30,5 +30,7 @@
 <!-- links -->
 [UA]: https://www.ua.pt/
 [Masters]: https://www.ua.pt/pt/curso/462
+[malware]: https://github.com/Pengrey/Presentations/blob/main/Modern%20Malware%20Development.pdf
+[security topics]: https://github.com/Pengrey/Presentations/blob/main/IoT-Hacking%20Workshop/IoT-Hacking.pdf
 [linkedin]: https://www.linkedin.com/in/rodrigofrancalima/ "Rodrigo Lima LinkedIn"
 [blog]: https://pengrey.com/posts/ "My Blog"
