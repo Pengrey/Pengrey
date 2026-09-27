@@ -14,9 +14,3 @@
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<br>
-
-<h2 align="left">Coding Activity</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pengrey&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
