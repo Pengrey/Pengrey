@@ -20,10 +20,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pengrey&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-
-<!-- links -->
-[malware]: https://github.com/Pengrey/Presentations/blob/main/Modern%20Malware%20Development.pdf
-[security topics]: https://github.com/Pengrey/Presentations/blob/main/OLLVM_Workshop/ollvm.pdf
-[linkedin]: https://www.linkedin.com/in/rodrigofrancalima/ "Rodrigo Lima LinkedIn"
-[blog]: https://pengrey.com/posts/ "My Blog"
