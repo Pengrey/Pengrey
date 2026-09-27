@@ -14,6 +14,8 @@
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
+<br>
+
 
 <!-- links -->
 [malware]: https://github.com/Pengrey/Presentations/blob/main/Modern%20Malware%20Development.pdf
