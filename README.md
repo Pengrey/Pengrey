@@ -14,3 +14,9 @@
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
+
+<!-- links -->
+[malware]: https://github.com/Pengrey/Presentations/blob/main/Modern%20Malware%20Development.pdf
+[security topics]: https://github.com/Pengrey/Presentations/blob/main/OLLVM_Workshop/ollvm.pdf
+[linkedin]: https://www.linkedin.com/in/rodrigofrancalima/ "Rodrigo Lima LinkedIn"
+[blog]: https://pengrey.com/posts/ "My Blog"
